@@ -58,7 +58,7 @@ Built a diffusion-based generative model from scratch using PyTorch, capable of 
 ## Contact
 
 - **GitHub:** [github.com/erickxllx](https://github.com/erickxllx)
-- **Email:** erickbanegas@email.com
+- **Email:** erickxllx@protonmail.com
 
 ---
 
